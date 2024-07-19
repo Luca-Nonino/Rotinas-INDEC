@@ -1,0 +1,9 @@
+pandas
+requests
+aiohttp
+aiofiles
+backoff
+numpy
+aiohttp
+aiofiles
+requests
